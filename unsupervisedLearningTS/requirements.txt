@@ -1,9 +1,12 @@
 pandas
-numpy 
+numpy<2
 matplotlib 
 statsmodels
 pandas_datareader
 datetime
 yfinance
-sklearn
-PyPortfolioOpt
+scikit-learn
+PyPortfolioOpt==1.2.7
+ipykernel
+pandas_ta
+requests
